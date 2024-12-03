@@ -17,23 +17,23 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with XPLOADER~
-
+XPLOADER~broTASRB#_9hB6P21RwTRKwYbB8RnHU1dKQU5G9HVZIMly2PbbqE
 //=================================================//
 
 global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭' 
 //Your desured bot name
-
+Nabeel king
 //=================================================//
 
 global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
 //Type your number here
-
+923225302306
 //=================================================//
 
 
 global.ownername = process.env.OWNER_NAME || 'Tylor' 
 //Type your name here
-
+Nabeel
 //=================================================//
 
 global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11"
@@ -69,7 +69,7 @@ global.xprefix = process.env.PREFIX || '.'
 
 global.premium = process.env.PREMIUM_VIP || ["254796180105"] 
 //Premium User
-
+923225302306
 //=================================================//
 
 global.hituet = 0
